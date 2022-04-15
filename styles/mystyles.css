@@ -1,0 +1,20 @@
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bullets{
+    font-size:large;
+    font-style: italic;
+}
+
+.greyfont{
+    color: darkgrey;
+}
